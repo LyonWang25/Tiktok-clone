@@ -1,5 +1,6 @@
-
-
+![screenshot](https://github.com/LyonWang25/tiktok/blob/main/Tiktik-desktop.png)
+![screenshot](https://github.com/LyonWang25/tiktok/blob/main/mobile.png)
+https://github.com/LyonWang25/tiktok/blob/main/Tiktik-desktop.png
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
